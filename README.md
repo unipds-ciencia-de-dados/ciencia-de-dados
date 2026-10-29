@@ -200,3 +200,33 @@ Citado na aula (divulgação do portfólio):
 
 - https://medium.com/
 - https://www.canva.com/
+
+---
+
+## Disciplina 02 - SQL para Ciência de Dados
+
+Materiais, exercícios e projeto prático da disciplina.
+
+- [Acessar os materiais da disciplina](./disciplina-02-sql-para-ciencia-de-dados/)
+- [Acessar o projeto SQL de detecção de fraude](./disciplina-02-sql-para-ciencia-de-dados/projeto-sql-fraude/)
+
+---
+
+## Disciplina 03 - Python para Cientista de Dados
+
+Materiais teóricos, exemplos de código, notebooks e projeto prático da disciplina.
+
+- [Acessar os materiais da disciplina](./disciplina-03-python-para-cientista-de-dados/)
+- [Material teórico](./disciplina-03-python-para-cientista-de-dados/material-teorico/)
+- [Arquivos importantes](./disciplina-03-python-para-cientista-de-dados/arquivos_importantes/)
+- [Projeto Capstone de Fraude](./disciplina-03-python-para-cientista-de-dados/capstone-fraude/)
+
+---
+
+## Lives
+
+- [Acessar os materiais das lives](./lives/)
+
+## Podcasts
+
+- [Acessar os podcasts](./podcasts/)
