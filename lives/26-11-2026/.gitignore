@@ -1,0 +1,15 @@
+# Arquivos do macOS
+.DS_Store
+
+# Gerados pelos notebooks de buscando-dados/
+buscando-dados/cotacao_*.csv
+buscando-dados/grafico_*.png
+buscando-dados/painel_indicadores_*.csv
+buscando-dados/historico_indicadores_*.csv
+
+# Gerados pelos scripts de notas-fiscais/
+notas-fiscais/entradas.csv
+notas-fiscais/estoque.csv
+notas-fiscais/entrada/
+notas-fiscais/processadas/
+notas-fiscais/notas_para_processar/
