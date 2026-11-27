@@ -1,4 +1,4 @@
-# Live: Shorts não vendem sorvete: correlação, causalidade e confundimento
+# Podcast: Shorts não vendem sorvete: correlação, causalidade e confundimento
 # Código que gera os números da apresentação (causalidade-1.pdf)
 
 library(dplyr)

@@ -1,4 +1,4 @@
-# Live: Shorts não vendem sorvete: correlação, causalidade e confundimento
+# Podcast: Shorts não vendem sorvete: correlação, causalidade e confundimento
 # Versão em Python
 #
 # - Shorts e sorvete: lê os mesmos 200 dias usados na aula (sorvete.csv,
